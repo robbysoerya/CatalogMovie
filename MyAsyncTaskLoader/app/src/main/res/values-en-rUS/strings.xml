@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AsyncTaskLoader</string>
+    <string name="cari">Search</string>
+    <string name="movie_catalog">Catalog Movie</string>
+    <string name="reviews">Reviews</string>
+    <string name="nama_film">Enter film title</string>
+    <string name="title">Title</string>
+    <string name="release_date">Release Date</string>
+    <string name="duration">Duration</string>
+    <string name="homepage">Homepage</string>
+    <string name="rating">Rating</string>
+    <string name="overview">Overviews</string>
+    <string name="todo">TODO</string>
+    <string name="deskripsi">Description</string>
+    <string name="tanggal">Date</string>
+    <string name="minute">Minute</string>
+    <string name="loading">Loading …</string>
+    <string name="title_activity_navigate">Navigation</string>
+    <string name="navigation_drawer_open">Open Navigation</string>
+    <string name="navigation_drawer_close">Close Navigation</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="hint">Enter words…</string>
+    <string name="search_movie">Cari Film</string>
+    <string name="favorite_movies">Film Kesukaan</string>
+</resources>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name" translatable="false">AsyncTaskLoader</string>
+    <string name="cari">Cari</string>
+    <string name="movie_catalog">Katalog Film</string>
+    <string name="reviews">Ulasan</string>
+    <string name="nama_film">Masukan Nama Film</string>
+    <string name="title">Judul</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="duration">Durasi</string>
+    <string name="homepage">Halaman Utama</string>
+    <string name="rating">Nilai</string>
+    <string name="overview">Ulasan Panjang</string>
+    <string name="todo">TODO</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="minute">Menit</string>
+    <string name="loading">Tunggu …</string>
+    <string name="title_activity_navigate">Navigasi</string>
+    <string name="navigation_drawer_open">Buka Navigasi</string>
+    <string name="navigation_drawer_close">Tutup Navigasi</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="mas_surya" translatable="false">Mas Surya</string>
+    <string name="robbysuryapratama_yahoo_co_id" translatable="false">robbysuryapratama@yahoo.co.id</string>
+    <string name="now_playing">Sedang Tayang</string>
+    <string name="hint">Masukkan kata…</string>
+    <string name="share">share</string>
+    <string name="detail" translatable="false">Detail</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="favorite_movies">Favorite Movies</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="preferences">Preferences</string>
+    <string name="settings">Settings</string>
+    <string name="search">Search</string>
+</resources>
